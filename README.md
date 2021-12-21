@@ -7,8 +7,10 @@
     Fique à vontade para comentar, compartilhar ou copiar qualquer um deles, só não vale vender, valeu ? <br>DIVIRTA-SE! 😁
 </h3>
 
+<!--Formação de engenharia de dados-->
 <img src="Minhas Habilidades_novo.png" alt="formação" style="height: 500px; width:1000px">
 
+<!--Hard Skills:-->
 <h2>Habilidades 🚀:</h2>
 <h3>Desenvolvimento:</h3>
 
@@ -22,10 +24,18 @@
 
 <h3>Dados:</h3>
 
-<a href="https://github.com/DrumondVilela/MySQL"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+<a href="https://github.com/DrumondVilela/MySQL"><img src="https://img.shields.io/static/v1?label=&message=MySQL&color=white&?style=for-the-badge&logo=mysql" alt="MySQL"></a>
+<img src="https://img.shields.io/static/v1?label=&message=Pandas&color=blueviolet&?style=for-the-badge&logo=pandas" alt="Pandas">
+<img src="https://img.shields.io/static/v1?label=&message=PySpark&?style=badge&color=orange&logo=apache-spark" alt="PySpark">
 
+<h3>Cloud:</h3>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank">
 
-### Onde me encontrar ? É só escolher e clicar 😁
+<h3>Versionamento:</h3>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
+
+<!--CONTATOS:-->
+<h2>Onde me encontrar ? É só escolher e clicar 😁</h2>
 <a href="https://www.instagram.com/_bruno.drumond_/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bruno-drumond-vilela-166562216/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/bruno.drumond.750/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
