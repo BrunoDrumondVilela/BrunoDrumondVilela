@@ -1,4 +1,4 @@
-<img align='left' src="code.gif" alt="logo" style="height:470px; width:450px">
+
 
 <h2>SOBRE MIM:</h2>
 <h3>Olá, eu sou o Bruno! Tenho 22 anos, moro na cidade do Rio de Janeiro e sou engenheiro de dados. Sou apaixonado por física, matemática e astronomia, o que me levou a começar os estudos na área da programação, e posteriormente, de dados.
