@@ -11,7 +11,7 @@
 <img src="Minhas Habilidades_novo.png" alt="formação" style="height: 500px; width:1000px">
 
 <!--Hard Skills:-->
-<h2>Habilidades 🚀:</h2>
+<h2>Habilidades 🚀</h2>
 <h3>Desenvolvimento:</h3>
 
 <h3>Front-End</h3>
