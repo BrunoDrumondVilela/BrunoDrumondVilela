@@ -1,7 +1,7 @@
 
 
 <h2>SOBRE MIM:</h2>
-<h3>Olá, eu sou o Bruno! Tenho 22 anos, moro na cidade do Rio de Janeiro e sou engenheiro de dados. Sou apaixonado por física, matemática e astronomia, o que me levou a começar os estudos na área da programação, e posteriormente, de dados.
+<h3>Oi, eu sou o Bruno! Tenho 22 anos, moro na cidade do Rio de Janeiro e sou engenheiro de dados. Sou apaixonado por física, matemática e astronomia, o que me levou a começar os estudos na área da programação, e posteriormente, de dados.
     Aos 20 anos fui monitor de física em um curso preparatório militar, onde enfrentei alguns desafios e os superei (ainda bem 🙌🏾), mas também descobri que a dedicação pode fazer grandes feitos.
     Enfim, você poderá encontrar no meu perfil repositórios voltados à didática, curiosidades ou até mesmo projetos aleatórios (os quais aparecem com frequência).
     Fique à vontade para comentar, compartilhar ou copiar qualquer um deles, só não vale vender, valeu ? <br>DIVIRTA-SE! 😁
